@@ -1,7 +1,7 @@
 /*
  * File:   adc.c
  * Author: Kenny
- *
+ *hihi
  * Created on 12 August 2016, 9:37 AM
  */
 
